@@ -1,1 +1,1 @@
-# Calculator-in-Python-Kivy
+This is a simple calculator i made with Kivy and Python. It's a great project to pactice making GUIs in Kivy. I will eventually deploy it to different platforms thanks to Kivy! It's still somewhat basic and i am adding functionality.
